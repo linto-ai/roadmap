@@ -2,7 +2,7 @@
 name: Planned by LINAGORA
 about: Voted roadmap item
 title: ''
-labels: 🏡 LINAGORA Roadmap
+labels: "\U0001F3E1 LINAGORA Roadmap"
 assignees: ''
 
 ---

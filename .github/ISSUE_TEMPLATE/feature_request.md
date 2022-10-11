@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: 🤼 Community Request
+labels: "\U0001F93C Community Request"
 assignees: ''
 
 ---
