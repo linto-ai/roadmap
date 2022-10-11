@@ -2,8 +2,6 @@
 
 The **largest Open Source voice-tech and speech-tech code base in the world** leveraging **your innovation**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AmeaZXFtsLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Public code and product Roadmap
 
 Welcome dear customers and developers.
